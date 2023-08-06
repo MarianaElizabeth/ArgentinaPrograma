@@ -1,11 +1,11 @@
-package com.ticmas.romanrios.proyectofinal.view
+package com.ticmas.marianaespindola.proyectofinal.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.lifecycle.Observer
-import com.ticmas.romanrios.proyectofinal.databinding.ActivityMainBinding
-import com.ticmas.romanrios.proyectofinal.model.DataModel
+import com.ticmas.marianaespindola.proyectofinal.databinding.ActivityMainBinding
+import com.ticmas.marianaespindola.proyectofinal.model.DataModel
 
 class MainActivity : AppCompatActivity() {
 
