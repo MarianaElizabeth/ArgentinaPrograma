@@ -1,9 +1,9 @@
-package com.ticmas.romanrios.proyectofinal.view
+package com.ticmas.marianaespindola.proyectofinal.view
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.ticmas.romanrios.proyectofinal.model.DataModel
+import com.ticmas.marianaespindola.proyectofinal.model.DataModel
 
 class MainViewModel : ViewModel() {
 
