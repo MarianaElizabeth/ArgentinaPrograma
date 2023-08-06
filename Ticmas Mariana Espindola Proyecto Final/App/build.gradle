@@ -11,11 +11,11 @@ android {
         dataBinding = true
     }
 
-    namespace 'com.ticmas.romanrios.proyectofinal'
+    namespace 'com.ticmas.marianaespindola.proyectofinal'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.ticmas.romanrios.proyectofinal"
+        applicationId "com.ticmas.marianaespindola.proyectofinal"
         minSdk 21
         targetSdk 33
         versionCode 1
