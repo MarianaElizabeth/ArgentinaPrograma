@@ -1,7 +1,6 @@
 # ArgentinaPrograma
-Trabajo final integrador de Argentina Programa 4.0
 # Proyecto final - Desarrollo de aplicaciones móviles
-Argentina Programa 4.0 - Ticmas Academy - Curso de Desarrollo de aplicaciones móviles - Presentación de actividad y proyecto final integrador - Román Ríos
+Argentina Programa 4.0 - Ticmas Academy - Curso de Desarrollo de aplicaciones móviles - Presentación de actividad y proyecto final integrador - Mariana Espindola
 
 [Word .doc correspondiente a la Actividad 1](https://github.com/MarianaElizabeth/ArgentinaPrograma/blob/main/Mariana%20Elizabeth%20Espindola%20-%20Actividad%201.doc)
 
