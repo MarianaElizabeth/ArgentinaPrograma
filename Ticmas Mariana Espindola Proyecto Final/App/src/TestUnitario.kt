@@ -1,7 +1,7 @@
-package com.ticmas.romanrios.proyectofinal
+package com.ticmas.marianaespindola.proyectofinal
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
-import com.ticmas.romanrios.proyectofinal.view.MainViewModel
+import com.ticmas.marianaespindola.proyectofinal.view.MainViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.test.*
