@@ -1,4 +1,4 @@
-package com.ticmas.romanrios.proyectofinal.view
+package com.ticmas.marianaespindola.proyectofinal.view
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.espresso.Espresso
@@ -7,7 +7,7 @@ import androidx.test.espresso.action.ViewActions
 import androidx.test.espresso.assertion.ViewAssertions
 import androidx.test.espresso.matcher.ViewMatchers
 import androidx.test.ext.junit.rules.ActivityScenarioRule
-import com.ticmas.romanrios.proyectofinal.R
+import com.ticmas.marianaespindola.proyectofinal.R
 import org.junit.After
 import org.junit.Before
 import org.junit.Rule
