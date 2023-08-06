@@ -1,4 +1,4 @@
-package com.ticmas.romanrios.proyectofinal.model
+package com.ticmas.marianaespindola.proyectofinal.model
 
 data class DataModel(
     val text1: String,
